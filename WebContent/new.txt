@@ -1,2 +1,8 @@
 texxt
+<<<<<<< HEAD
 23434234
+123
+=======
+123123
+aefaefssf
+>>>>>>> branch 'master' of https://github.com/vivlabss/newgit.git
